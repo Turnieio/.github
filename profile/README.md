@@ -38,7 +38,7 @@ Turnieio consists of 5 main components:
 
 Turnieio is ready for **Kubernetes deployment**:
 
-1. Apply the deployment file:
+1. Apply the deployment file (can be found in deployments repository):
    ```bash
    kubectl create -f turnieio-deployment.yaml
 
